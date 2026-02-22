@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <strong>Hanryck Braar <img src="https://flagcdn.com/20x15/ca.png" alt="🇨🇦" /></strong>
+  <strong>Hanryck Brar <img src="https://flagcdn.com/20x15/ca.png" alt="🇨🇦" /></strong>
 </p>
 
 <p align="center">
-  <em>1% better every day.</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=850&duration=2900&center=true&vCenter=true&width=1100&color=FF4D00&lines=Hi%2C+my+name+is+Hanryck.;I+design+products.;I+am+building+toward+a+startup.;1%25+better+every+day." alt="Typing animation" />
 </p>
 
 ## About Me
