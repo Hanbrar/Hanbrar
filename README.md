@@ -3,18 +3,15 @@
 </p>
 
 <p align="center">
-  <strong>Hanryck <img src="https://flagcdn.com/20x15/ca.png" alt="🇨🇦" /></strong>
+  <strong>Hanryck Braar <img src="https://flagcdn.com/20x15/ca.png" alt="🇨🇦" /></strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=850&duration=2900&center=true&vCenter=true&width=1100&color=FF4D00&lines=Hi%2C+my+name+is+Hanryck.;I+design+products.;I+am+building+toward+a+startup.;1%25+better+every+day." alt="Typing animation" />
+  <em>1% better every day.</em>
 </p>
 
 ## About Me
-I design products with meticulous attention to detail.
-I am building toward a startup and shipping relentlessly.
-I like solving hard problems where design and engineering meet.
-My goal is to move to San Francisco and achieve an O-1 visa.
+I'm currently studying electrical engineering and interested in building cool projects with a product design and user experience focus.
 
 ## Contact
 <p>
