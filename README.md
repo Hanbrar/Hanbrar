@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./image%20copy%202.png" alt="Banner image" width="100%" />
+  <img src="./banner.png" alt="San Francisco skyline" width="80%" />
 </p>
 
 <p align="center">
-  <strong>Hanryck &#x1F1E8;&#x1F1E6;</strong>
+  <strong>Hanryck <img src="https://flagcdn.com/20x15/ca.png" alt="🇨🇦" /></strong>
 </p>
 
 <p align="center">
@@ -14,6 +14,7 @@
 I design products with meticulous attention to detail.
 I am building toward a startup and shipping relentlessly.
 I like solving hard problems where design and engineering meet.
+My goal is to move to San Francisco and achieve an O-1 visa.
 
 ## Contact
 <p>
@@ -61,10 +62,5 @@ _Auto-updated daily via GitHub Actions._
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Hanbrar&theme=transparent&hide_border=true&ring=ff3b30&fire=ff9500&currStreakLabel=0a84ff&sideLabels=1f2937&dates=4b5563" alt="GitHub streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hanbrar&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-</p>
-
 
 
