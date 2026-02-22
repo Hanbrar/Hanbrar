@@ -33,22 +33,7 @@ My goal is to move to San Francisco and achieve an O-1 visa.
 - Enjoy product strategy, interaction design, and full-stack execution.
 
 ## Featured Project
-- DeepConverge: https://www.deepconverge.ai/
-- Code: https://github.com/Hanbrar/DeepConverge
-
-### Stack
-| Layer | Technology |
-|---|---|
-| Frontend | Next.js 16 (App Router), React, Tailwind CSS |
-| AI Model | NVIDIA Nemotron via OpenRouter |
-| Auth | Supabase (Google OAuth + PKCE) |
-| Streaming | Server-Sent Events (SSE) |
-| Deployment | Vercel |
-
-## School Projects
-- https://github.com/Hanbrar/arc4crackfast
-- https://github.com/Hanbrar/Autonomous_Coin_Picking_Robot
-- https://github.com/Hanbrar/Squirrel/tree/main/public
+[DeepConverge](https://www.deepconverge.ai/) — [code](https://github.com/Hanbrar/DeepConverge)
 
 ## Commit Mission
 Target: **500 commits** this year.
