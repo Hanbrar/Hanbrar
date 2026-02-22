@@ -1,0 +1,28 @@
+
+https://github.com/Hanbrar
+
+https://x.com/ItsHB17
+
+Major Product #1 Design Projects 
+
+Multi-agentic debate platform powered with "Layer	Technology
+Frontend	Next.js 16 (App Router) + React + Tailwind CSS
+AI Model	NVIDIA Nemotron via OpenRouter
+Auth	Supabase (Google OAuth + PKCE)
+Streaming	Server-Sent Events (SSE) for real-time debate
+Deployment	Vercel" 
+https://www.deepconverge.ai/
+
+https://github.com/Hanbrar/DeepConverge
+
+
+
+
+School Projects
+
+https://github.com/Hanbrar/arc4crackfast 
+
+https://github.com/Hanbrar/Autonomous_Coin_Picking_Robot
+
+https://github.com/Hanbrar/Squirrel/tree/main/public
+
