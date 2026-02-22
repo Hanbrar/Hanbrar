@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=850&duration=2900&center=true&vCenter=true&width=1100&color=FF4D00&lines=Hi%2C+my+name+is+Hanryck.;I+design+products.;I+am+building+toward+a+startup.;1%25+better+every+day." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=850&duration=2900&center=true&vCenter=true&width=1100&color=FF4D00&lines=Hi%2C+my+name+is+Hanryck.;I+design+products.;1%25+better+every+day." alt="Typing animation" />
 </p>
 
 ## About Me
@@ -29,7 +29,6 @@ I'm currently studying electrical engineering and interested in building cool pr
 ## What I Do
 - Design digital products with strong attention to detail.
 - Build technical systems that move from idea to launch quickly.
-- Work toward a startup with real users and measurable outcomes.
 - Enjoy product strategy, interaction design, and full-stack execution.
 
 ## Featured Project
