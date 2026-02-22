@@ -36,7 +36,14 @@ My goal is to move to San Francisco and achieve an O-1 visa.
 - Enjoy product strategy, interaction design, and full-stack execution.
 
 ## Featured Project
-[DeepConverge](https://www.deepconverge.ai/) — [code](https://github.com/Hanbrar/DeepConverge)
+<p>
+  <a href="https://www.deepconverge.ai/">
+    <img src="https://img.shields.io/badge/DeepConverge-Website-FF4D00?style=for-the-badge" alt="DeepConverge" />
+  </a>
+  <a href="https://github.com/Hanbrar/DeepConverge">
+    <img src="https://img.shields.io/badge/DeepConverge-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="DeepConverge code" />
+  </a>
+</p>
 
 ## Commit Mission
 Target: **500 commits** this year.
