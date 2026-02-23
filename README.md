@@ -45,7 +45,13 @@ I'm currently studying electrical engineering and interested in building cool pr
 Target: **500 commits** this year.
 
 <!--START_STATS-->
-`Loading latest stats...`
+- Year: **2026**
+- Current commits: **69**
+- Goal: **500**
+- Remaining: **431**
+- Current streak: **4 days**
+- Best streak this year: **6 days**
+- Progress: `####--------------------------` **13.8%**
 <!--END_STATS-->
 
 _Auto-updated daily via GitHub Actions._
