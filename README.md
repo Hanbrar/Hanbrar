@@ -31,7 +31,7 @@ I'm currently studying electrical engineering and interested in building cool pr
 - Build technical systems that move from idea to launch quickly.
 - Enjoy product strategy, interaction design, and full-stack execution.
 
-## Featured Project
+## Featured Projects
 <p>
   <a href="https://www.deepconverge.ai/">
     <img src="https://img.shields.io/badge/DeepConverge-Website-FF4D00?style=for-the-badge" alt="DeepConverge" />
@@ -40,6 +40,16 @@ I'm currently studying electrical engineering and interested in building cool pr
     <img src="https://img.shields.io/badge/DeepConverge-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="DeepConverge code" />
   </a>
 </p>
+
+### Polyopus
+Deployed a Claude powered Polymarket trading bot.  
+Fully autonomous.  
+Live positions.  
+Live PnL.  
+Zero fluff.  
+If it wins, you see it.  
+If it loses, you see it.  
+<https://polyopus-production.up.railway.app>
 
 ## Commit Mission
 Target: **500 commits** this year.
@@ -59,5 +69,4 @@ _Auto-updated daily via GitHub Actions._
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Hanbrar&theme=transparent&hide_border=true&ring=ff3b30&fire=ff9500&currStreakLabel=0a84ff&sideLabels=1f2937&dates=4b5563" alt="GitHub streak" />
 </p>
-
 
