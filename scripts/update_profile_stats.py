@@ -138,6 +138,7 @@ def main() -> int:
         contributionsCollection(from: $from, to: $to) {
           totalCommitContributions
           contributionCalendar {
+            totalContributions
             weeks {
               contributionDays {
                 date
@@ -162,7 +163,13 @@ def main() -> int:
         raise RuntimeError(f"GitHub user not found: {username}")
 
     collection = user["contributionsCollection"]
-    commits = int(collection["totalCommitContributions"])
+    # Match GitHub profile's yearly headline count (includes restricted/private
+    # contributions when the token and profile settings allow it).
+    commits = int(
+        collection["contributionCalendar"].get(
+            "totalContributions", collection["totalCommitContributions"]
+        )
+    )
 
     days: list[tuple[dt.date, int]] = []
     for week in collection["contributionCalendar"]["weeks"]:

@@ -22,7 +22,7 @@ jobs:
 
       - name: Update README stats block
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN || github.token }}
           GITHUB_USERNAME: Hanbrar
           COMMIT_GOAL: "500"
         run: python scripts/update_profile_stats.py
