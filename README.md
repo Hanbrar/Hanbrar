@@ -27,11 +27,9 @@ I'm currently studying electrical engineering and interested in building cool pr
 
 ## Featured Projects
 
-<p>🧠 <a href="https://www.deepconverge.ai/"><strong>DeepConverge</strong></a> — Watch LLMs debate and find your best answer, powered by NVIDIA Nemotron. &nbsp;<a href="https://github.com/Hanbrar/DeepConverge"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></p>
-
-<p>💹 <a href="https://polyopus-production.up.railway.app"><strong>Polyopus</strong></a> — Autonomous Claude-powered Polymarket trading bot with live positions and PnL.</p>
-
-<p>🎙️ <a href="https://superflow-ai.vercel.app/"><strong>SuperflowAI</strong></a> — Free Windows voice dictation app, converts speech to text at cursor instantly. &nbsp;<a href="https://github.com/Hanbrar/SuperflowAI"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></p>
+- <a href="https://www.deepconverge.ai/"><strong>DeepConverge</strong></a> - Watch LLMs debate and find your best answer, powered by NVIDIA Nemotron. <a href="https://github.com/Hanbrar/DeepConverge"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+- <a href="https://polyopus-production.up.railway.app"><strong>Polyopus</strong></a> - Autonomous Claude-powered Polymarket trading bot with live positions and PnL.
+- <a href="https://superflow-ai.vercel.app/"><strong>SuperflowAI</strong></a> - Free Windows voice dictation app, converts speech to text at cursor instantly. <a href="https://github.com/Hanbrar/SuperflowAI"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 ## Commit Mission
 Target: **500 commits** this year.
@@ -51,4 +49,3 @@ _Auto-updated daily via GitHub Actions._
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Hanbrar&theme=transparent&hide_border=true&ring=ff3b30&fire=ff9500&currStreakLabel=0a84ff&sideLabels=1f2937&dates=4b5563" alt="GitHub streak" />
 </p>
-
