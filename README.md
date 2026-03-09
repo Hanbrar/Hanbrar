@@ -14,11 +14,8 @@
 I'm currently studying electrical engineering and interested in building cool projects with a product design and user experience focus.
 
 ## Contact
-<p>
-  <a href="https://x.com/ItsHB17"><img src="https://img.shields.io/badge/x.com%2FItsHB17-FF5A1F?style=for-the-badge&labelColor=111111" alt="x.com/ItsHB17" /></a>
-  &nbsp;&nbsp;
-  <a href="https://hanryckbrar.com"><img src="https://img.shields.io/badge/hanryckbrar.com-1E90FF?style=for-the-badge&labelColor=111111" alt="hanryckbrar.com" /></a>
-</p>
+
+[x.com/ItsHB17](https://x.com/ItsHB17) &nbsp; [🤘](https://hanryckbrar.com)
 
 ## What I Do
 - Design digital products with strong attention to detail.
@@ -27,9 +24,15 @@ I'm currently studying electrical engineering and interested in building cool pr
 
 ## Featured Projects
 
-- <a href="https://www.deepconverge.ai/"><strong>DeepConverge</strong></a> - Watch LLMs debate and find your best answer, powered by NVIDIA Nemotron. <a href="https://github.com/Hanbrar/DeepConverge"><img src="https://img.shields.io/badge/github.com%2FHanbrar%2FDeepConverge-111111?style=flat-square" alt="github.com/Hanbrar/DeepConverge" /></a>
-- <a href="https://polyopus-production.up.railway.app"><strong>Polyopus</strong></a> - Autonomous Claude-powered Polymarket trading bot with live positions and PnL.
-- <a href="https://superflow-ai.vercel.app/"><strong>SuperflowAI</strong></a> - Free Windows voice dictation app, converts speech to text at cursor instantly. <a href="https://github.com/Hanbrar/SuperflowAI"><img src="https://img.shields.io/badge/github.com%2FHanbrar%2FSuperflowAI-111111?style=flat-square" alt="github.com/Hanbrar/SuperflowAI" /></a>
+🧠 [**DeepConverge**](https://www.deepconverge.ai/) — Watch LLMs debate and find your best answer, powered by NVIDIA Nemotron. [`github`](https://github.com/Hanbrar/DeepConverge)
+
+<br/>
+
+💹 [**Polyopus**](https://polyopus-production.up.railway.app) — Autonomous Claude-powered Polymarket trading bot with live positions and PnL.
+
+<br/>
+
+🎙️ [**SuperflowAI**](https://superflow-ai.vercel.app/) — Free Windows voice dictation app, converts speech to text at cursor instantly. [`github`](https://github.com/Hanbrar/SuperflowAI)
 
 ## Commit Mission
 Target: **500 commits** this year.
