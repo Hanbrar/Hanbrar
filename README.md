@@ -15,14 +15,11 @@ I'm currently studying electrical engineering and interested in building cool pr
 
 ## Contact
 <p>
-  <a href="https://github.com/Hanbrar">
-    <img src="https://img.shields.io/badge/GitHub-Hanbrar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://x.com/ItsHB17">
-    <img src="https://img.shields.io/badge/X-@ItsHB17-000000?style=for-the-badge" alt="X" />
+    <img src="https://img.shields.io/badge/X-@ItsHB17-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://hanryckbrar.com">
-    <img src="https://img.shields.io/badge/Website-hanryckbrar.com-FF4D00?style=for-the-badge" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-hanryckbrar.com-FF4D00?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
   </a>
 </p>
 
@@ -33,28 +30,11 @@ I'm currently studying electrical engineering and interested in building cool pr
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>DeepConverge</h3>
-      <p><sub>Watch LLMs debate and find the best answer for you. Sit back and relax.<br/>Powered by NVIDIA Nemotron.<br/>Agentic mode &bull; Debate mode &bull; Image & PDF support</sub></p>
-      <a href="https://www.deepconverge.ai/">
-        <img src="https://img.shields.io/badge/Visit_Site-FF4D00?style=for-the-badge&logo=safari&logoColor=white" alt="DeepConverge Website" />
-      </a>
-      &nbsp;
-      <a href="https://github.com/Hanbrar/DeepConverge">
-        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="DeepConverge GitHub" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>Polyopus</h3>
-      <p><sub>Claude-powered Polymarket trading bot.<br/>Fully autonomous &bull; Live positions &bull; Live PnL<br/>Zero fluff. If it wins, you see it. If it loses, you see it.</sub></p>
-      <a href="https://polyopus-production.up.railway.app">
-        <img src="https://img.shields.io/badge/Live_App-FF4D00?style=for-the-badge&logo=railway&logoColor=white" alt="Polyopus Live" />
-      </a>
-    </td>
-  </tr>
-</table>
+🧠 [**DeepConverge**](https://www.deepconverge.ai/) — Watch LLMs debate and find your best answer, powered by NVIDIA Nemotron. &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hanbrar/DeepConverge)
+
+🐙 [**Polyopus**](https://polyopus-production.up.railway.app) — Autonomous Claude-powered Polymarket trading bot with live positions and PnL.
+
+🎙️ [**SuperflowAI**](https://superflow-ai.vercel.app/) — Free Windows voice dictation app, converts speech to text at cursor instantly. &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hanbrar/SuperflowAI)
 
 ## Commit Mission
 Target: **500 commits** this year.
