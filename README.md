@@ -32,7 +32,7 @@ I'm currently studying electrical engineering and interested in building cool pr
 
 🧠 [**DeepConverge**](https://www.deepconverge.ai/) — Watch LLMs debate and find your best answer, powered by NVIDIA Nemotron. &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hanbrar/DeepConverge)
 
-🐙 [**Polyopus**](https://polyopus-production.up.railway.app) — Autonomous Claude-powered Polymarket trading bot with live positions and PnL.
+💹 [**Polyopus**](https://polyopus-production.up.railway.app) — Autonomous Claude-powered Polymarket trading bot with live positions and PnL.
 
 🎙️ [**SuperflowAI**](https://superflow-ai.vercel.app/) — Free Windows voice dictation app, converts speech to text at cursor instantly. &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hanbrar/SuperflowAI)
 
