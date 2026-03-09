@@ -15,7 +15,7 @@ I'm currently studying electrical engineering and interested in building cool pr
 
 ## Contact
 
-[x.com/ItsHB17](https://x.com/ItsHB17) &nbsp; [🤘](https://hanryckbrar.com)
+[x.com/ItsHB17](https://x.com/ItsHB17) &nbsp; [hanryckbrar.com](https://hanryckbrar.com)
 
 ## What I Do
 - Design digital products with strong attention to detail.
