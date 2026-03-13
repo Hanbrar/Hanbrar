@@ -42,7 +42,7 @@ Target: **500 commits** this year.
 - Current commits: **244**
 - Goal: **500**
 - Remaining: **256**
-- Current streak: **2 days**
+- Current streak: **0 days**
 - Best streak this year: **8 days**
 - Progress: `###############---------------` **48.8%**
 <!--END_STATS-->
